@@ -6,7 +6,7 @@ description: "Stewed onions, peppers, tomatoes and potatoes"
 image:
   url: "/images/ciambotta.jpg"
   alt: "Ciambotta"
-tags: ["One Pot"]
+tags: ["OnePan"]
 ---
 
 

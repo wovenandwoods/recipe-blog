@@ -6,7 +6,7 @@ description: "Roasted potatoes, etc."
 image:
   url: "/images/roasted-potatoes-chorizo-and-eggs.jpg"
   alt: "Roasted Potatoes, Chorizo and Eggs"
-tags: ["Eggs", "One Pan"]
+tags: ["Eggs", "OnePan"]
 ---
 
 Serves 2/3

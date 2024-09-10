@@ -6,7 +6,7 @@ description: Eggs poached in a spicy tomato and pepper sauce"
 image:
   url: "/images/shakshuka.jpg"
   alt: "Shakshuka"
-tags: ["Eggs", "One Pot"]
+tags: ["Eggs", "OnePan"]
 --- 
 
 Serves 2
