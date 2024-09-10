@@ -6,7 +6,7 @@ description: "Orzo with cheddar and leekse"
 image:
   url: "/images/cheddar-and-leak-orzotto.jpg"
   alt: "Cheddar and Leak Orzotto"
-tags: ["Pasta", "One Pot"]
+tags: ["Pasta", "OnePan"]
 --- 
 
 Serves 2

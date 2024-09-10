@@ -6,7 +6,7 @@ description: "Spicy stew made with mince meat. Serve with rice and tortilla chip
 image:
   url: "/images/chili.jpg"
   alt: "Chili"
-tags: ["Mince", "One Pot"]
+tags: ["Mince", "OnePan"]
 --- 
 
 Serves 6
