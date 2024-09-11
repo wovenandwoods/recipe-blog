@@ -1,7 +1,7 @@
 ---
 title: 'About'
 author: 'Will'
-layout: /src/layouts/BaseLayout.astro
+layout: /src/layouts/MarkdownPageLayout.astro
 ---
 Welcome, intrepid gourmands (assuming you can stomach a world without sriracha). This blog chronicles the fortunate few recipes that have survived Georgie's iron-fisted culinary regime.
 
